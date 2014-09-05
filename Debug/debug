@@ -1,0 +1,9 @@
+How many devices do we have?
+About to malloc wrkArea1D: 512
+Well malloc worked! Opening kernel file:../src/nD.cl
+Getting the kernel k_init1D with clsym
+calling clForka with rows: 32 and cols: 16
+Transferring memory contents from the Epiphany using clmsync
+Getting the kernel k_init2D with clsym
+calling clForka with rows: 32 and cols: 16
+Transferring memory contents from the Epiphany using clmsync

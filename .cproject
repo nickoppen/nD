@@ -39,7 +39,7 @@
 								<option id="gnu.cpp.link.option.paths.1614492170" name="Library search path (-L)" superClass="gnu.cpp.link.option.paths" valueType="libPaths">
 									<listOptionValue builtIn="false" value="/usr/local/browndeer/lib"/>
 								</option>
-								<option id="gnu.cpp.link.option.libs.203496076" superClass="gnu.cpp.link.option.libs" valueType="libs">
+								<option id="gnu.cpp.link.option.libs.203496076" name="Libraries (-l)" superClass="gnu.cpp.link.option.libs" valueType="libs">
 									<listOptionValue builtIn="false" value="stdcl"/>
 									<listOptionValue builtIn="false" value="ocl"/>
 								</option>
